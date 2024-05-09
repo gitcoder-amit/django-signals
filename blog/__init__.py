@@ -1,0 +1,1 @@
+default_app_config = 'blog.apps.BlogConfig'   # if we don't want to use this we can also use this as our app name
